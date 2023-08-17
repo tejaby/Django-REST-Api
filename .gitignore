@@ -1,0 +1,20 @@
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+*.db
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+
+# migrations
+
+**/migrations/
+
+# media
+media/
+static/
